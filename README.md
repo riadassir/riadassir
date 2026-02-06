@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @riadassir
-- 👀 I’m interested in software development, enterprise solutions design
-- 🌱 I’m currently learning Python, Scala, Kafka
-- 💞️ I’m looking to collaborate on Large Systems Development
-- 📫 How to reach me riadassir@outlook.com
+- 👀 I’m interested in software development, enterprise solutions design, data analytics and AI
+- 🌱 I’m currently learning Python, GenAI Models, AI
 
 <!---
 riadassir/riadassir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
